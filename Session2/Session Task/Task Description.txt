@@ -1,0 +1,7 @@
+Build a linear model using polynomial and linear regression.
+
+the data descripes the prices of cars presented in 'MSRP' column.
+
+use the reqularization techniques presented in the session and comment on how it preforms on the model testing error.
+
+The deadline will be on 2nd nov 12:00 pm
